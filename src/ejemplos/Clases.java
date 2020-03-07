@@ -1,5 +1,5 @@
 
-package clases;
+package ejemplos;
 public class Clases {    
     public static void main(String[] args) {
        Persona juan;//Declaracion

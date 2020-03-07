@@ -1,4 +1,4 @@
-package clases;
+package ejemplos;
 public class Persona {
     //
     private String Nombre;
